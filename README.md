@@ -5,7 +5,7 @@ Bu projede, iki adet PIC16F887 mikrodenetleyicisi kullanılarak joystick'ten al�
 
 - **PIC16F887 (2 adet)**: Verici ve alıcı birimlerde kullanılmıştır.
 - **RF Modülleri (433 MHz TX-RX)**: Kablosuz haberleşme için.
-- **Joystick (2 Potansiyometre)**: Kullanıcıdan yön verisi alınır.
+- **Joystick Kullanıcıdan yön verisi alınır.
 - **MAX7219 + 8x8 LED Matrix**: Görsel çıkış birimi.
 - **Proteus (ISIS)**: Devre tasarımı ve simülasyonu için.
 - **CCS C**: Mikrodenetleyici programlaması için.
@@ -16,7 +16,7 @@ Bu projede, iki adet PIC16F887 mikrodenetleyicisi kullanılarak joystick'ten al�
 
 - `rf_transmitter.c` : Joystick verisini okuyarak RF ile gönderen verici kodu.
 - `rf_receiver.c` : Gelen RF sinyale göre LED Matrix'i güncelleyen alıcı kodu.
-- `proje_devre.png` : Proteus devre şeması ekran görüntüsü.
+- `proje_devre.png` : Proteus devre şeması ekran görüntüsü.(görseldeki potansiyometre yerine gerçek joystick kullanıldı elektronik devrede)
 
 ---
 
