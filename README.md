@@ -55,15 +55,3 @@ Bu projede, iki adet PIC16F887 mikrodenetleyicisi kullanılarak joystick'ten al�
 
 ---
 
-## 📸 Ekran Görüntüsü
-
-![Devre Şeması](proje_devre.png)
-
----
-
-## ✍️ Yazar
-
-Bu proje, [Mikroişlemciler Dersi] kapsamında gerçekleştirilmiştir.
-
----
-
